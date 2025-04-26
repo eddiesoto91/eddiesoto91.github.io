@@ -8,5 +8,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-  }
+  },
+  "homepage": "https://eddisoto91.github.io/my-portfolio/"
 }
